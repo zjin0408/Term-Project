@@ -1,0 +1,16 @@
+.container{
+  border: ridge;
+  background-color: pink;
+  border: 50px 25px 25px 50px;
+}
+.ghost-button{
+  font-style:blue;
+  font-size: 40px;
+  background-color: red;
+
+}
+.ghost-input{
+  font-size: 40px;
+  background-color: blue;
+  font-style: italic;
+}
