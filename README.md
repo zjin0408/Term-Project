@@ -8,4 +8,4 @@ Request- To make HTTP request
 Express- Creating and Running Webserver
 Body-parser-To access Items
 #Running the App
-The apllication runs on Localhost:3000
+The application runs on Localhost:3000
